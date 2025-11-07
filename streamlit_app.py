@@ -11,3 +11,5 @@ data = pd.DataFrame(
 
 
 st.line_chart(data)
+st.write("안녕")
+
